@@ -1,0 +1,14 @@
+#include "resource.h"
+
+ID_TURN WAVE "효과음\\wing.wav"
+ID_DROP WAVE "효과음\\kung.wav"
+ID_DEST WAVE "효과음\\Bbong.wav"
+
+ID_COM1 WAVE "효과음\\C01.bbu"
+ID_COM2 WAVE "효과음\\C02.bbu"
+ID_COM3 WAVE "효과음\\C03.bbu"
+ID_COM4 WAVE "효과음\\C04.bbu"
+ID_COM5 WAVE "효과음\\C05.bbu"
+ID_COM6 WAVE "효과음\\C06.bbu"
+ID_COM7 WAVE "효과음\\C07.bbu"
+ID_COM8 WAVE "효과음\\C08.bbu"
